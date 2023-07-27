@@ -1,4 +1,3 @@
-
 async function foo() {
     var res = await fetch("http://api.citybik.es/v2/networks")
     var result = await res.json();
