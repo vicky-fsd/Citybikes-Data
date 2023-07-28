@@ -12,7 +12,7 @@ async function foo() {
                 <div class="card" style="width: 250px;">
                 <div class="card-body">
                   <h5 class="card-title">${result.networks[a].name}</h5>
-                  <h6 class="card-subtitle mb-2">${result.networks[a].company[0]}</h6>
+                  <h6 class="card-subtitle mb-2">${result.networks[a].company}</h6>
                   <address><i class="fa-solid fa-location-dot fa-bounce" style="color: rgb(6, 184, 184);"></i> ${result.networks[a].location.city}<br>
                   ${result.networks[a].location.country}<br>
                   ID : ${result.networks[a].id}<br>
