@@ -17,7 +17,7 @@ async function foo() {
                   ${result.networks[a].location.country}<br>
                   ID : ${result.networks[a].id}<br>
                   </address>
-                  <a href="https://api.citybik.es${result.networks[a].href}" class="btn btn-primary" target="blank">More Info</a>                
+                  <a href="https://citybik.es/" class="btn btn-primary" target="blank">More Info</a>                
                 </div>
               </div>
               </div>
