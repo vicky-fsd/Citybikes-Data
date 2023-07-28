@@ -24,6 +24,6 @@ async function foo() {
                 `
                 root.appendChild(div)
                }
-  }
+  };
   
   foo();
