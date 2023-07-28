@@ -1,5 +1,5 @@
 async function foo() {
-    var res = await fetch("http://api.citybik.es/v2/networks")
+    var res = await fetch("http://api.citybik.es/v2/all")
     var result = await res.json();
     console.log(result.networks);
     var root = document.getElementById("root")
@@ -26,4 +26,4 @@ async function foo() {
                }
   }
   
-  foo();
+  foo()
