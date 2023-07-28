@@ -4,11 +4,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top:450px;
-    color: indigo;
-    background: url(https://images-cdn.ubuy.co.in/635e2501f7a21e3f2d0e7745-maps-international-world-wall-map-map.jpg);
-    
-    
+    padding-top:450px; 
 }
 .container{
     background: url(https://media.istockphoto.com/id/466699584/vector/bicycle-world.jpg?s=612x612&w=0&k=20&c=vabBcR7mLVN_uxNeLZNqfw2V6y0H-aouy_6WDsCmA08=);
